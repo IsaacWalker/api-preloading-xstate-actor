@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "module": "ES6",
+        "lib": ["DOM"],
+        "jsx": "react",
+        "moduleResolution": "Node"
+    }
+}
